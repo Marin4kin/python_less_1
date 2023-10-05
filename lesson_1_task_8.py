@@ -1,0 +1,15 @@
+def num():
+    num = input("введите цифру ")
+    print (num)
+   
+num()
+num()
+num()
+num()
+num()
+num()
+num()
+num()
+num()
+num()
+num()
