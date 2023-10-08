@@ -1,44 +1,44 @@
-def funk_a():
+def print_1():
     print(1, end ='')
 
-def funk_b():
+def print_2():
     print(2, end ='')
 
-def funk_c():
+def print_3():
     print(3, end ='')
 
-def funk_d():
+def print_4():
     print(4, end ='')
 
-def funk_e():
+def print_5():
     print(5, end ='')
     
-def funk_f():
+def print_6():
     print(6, end ='')
 
-def funk_g():
+def print_7():
     print(7, end ='')
 
-def funk_h():
+def print_8():
     print(8, end ='')  
 
-def funk_i():
+def print_9():
     print(9, end ='')
 
-def funk_j():
+def print_0():
     print(0, end ='')
 
-funk_h()
-funk_h()
-funk_j()
-funk_j()
-funk_e()
-funk_e()
-funk_e()
-funk_c()
-funk_e()
-funk_c()
-funk_e()
+print_8()
+print_8()
+print_0()
+print_0()
+print_5()
+print_5()
+print_5()
+print_3()
+print_5()
+print_3()
+print_5()
 
 
 
